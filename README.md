@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DeyanIliev
 - 👀 I’m interested in programming and games.
-- 🌱 I’m currently learning python/java basics (not 100% sure about which language to start)
-- 💞️ I’m looking to collaborate on finding mate to help me doing projects and learning more and more
+- 🌱 I’m currently learning java basics.
+- 💞️ I’m looking to collaborate on finding mate to help me doing projects and learning more and more;
 - 📫 How to reach me : deyan_iliev@yahoo.com
 
 <!---
