@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deyaniliev&label=Profile%20views&color=0e75b6&style=flat" alt="deyaniliev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deyaniliev" alt="deyaniliev" /></a> </p>
+<p [![trophy](https://github-profile-trophy.vercel.app/?username=deyaniliev&theme=onedark)](https://github.com/deyaniliev/github-profile-trophy) </p>
 
 - 🔭 I’m currently working on creating personal website. [https://deyaniliev.github.io/PersonalWebsite/](https://deyaniliev.github.io/PersonalWebsite/)
 
