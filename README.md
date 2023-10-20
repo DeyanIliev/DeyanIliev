@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deyaniliev" alt="deyaniliev" /></a> </p>
 
-- 🔭 I’m currently working on creating personal website. [[https://deyaniliev.github.io/PersonalWebsite/](https://deyaniliev.github.io/PersonalWebsite/](https://deyaniliev.github.io/Personal-website/))
+- 🔭 I’m currently working on creating personal website. https://deyaniliev.github.io/Personal-website/
 
 - 👨‍💻 All of my projects are available at [GitHub](GitHub)
 
 - 📫 How to reach me **deyan_iliev@yahoo.com**
 
-- 📄 Know about my experiences [https://deyaniliev.github.io/PersonalWebsite/]([https://deyaniliev.github.io/PersonalWebsite/](https://deyaniliev.github.io/Personal-website/))
+- 📄 Know about my experiences - https://deyaniliev.github.io/Personal-website/
 
 - ⚡ Fun fact **I am working, studying Law and learning for Front End Developer. I have small experience with Java and even smaller experience with Python.**
 
