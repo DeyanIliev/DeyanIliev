@@ -46,17 +46,11 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/DeyanIliev/DeyanIliev/output/snake.svg" alt="Snake animation" />
-
-###
-
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=DeyanIliev.DeyanIliev&"  />
 
 ###
 
-<div align="right">
+<div align="center">
   <a href="https://open.spotify.com/user/31p6yiabtwuavc426jg6ixvyu7ju">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31p6yiabtwuavc426jg6ixvyu7ju&count=5&unique=true" alt="Spotify recently played"  />
   </a>
